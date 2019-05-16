@@ -1,0 +1,92 @@
+button {
+  font-size: 1.1em;
+  font-family: 'Montserrat', sans-serif;
+  margin: 1em;
+}
+
+#cart-btn {
+  background-color: #c63928;
+  color: white;
+  border-style: none;
+  padding: 1em 3em;
+}
+
+#cart-btn:hover {
+  background-color: #ec4d50;
+  color: white;
+  cursor: pointer;
+}
+
+#strt-btn {
+  background-color: #fdd835;
+  color: #2c60f4;
+  border: 2px solid #2c60f4;
+  padding: 10px 20px;
+  font-family: "Gugi", sans-serif;
+  font-size: 1.5em;
+}
+
+#strt-btn:hover {
+  background-color: #2a61fb;
+  color: #eecd69;
+  cursor: pointer;
+}
+
+#log-btn{
+  border-radius: 25px ;
+  border: none;
+  background-image: linear-gradient(to right, #5dd0d2 , #8fd298);
+  color: white;
+  padding: 10px 15px;
+
+}
+
+#log-btn:hover{
+background-color: #5dd0d2;
+cursor: pointer;
+
+}
+
+
+#singn-btn{
+  border-radius: 8px ;
+  color:#6749ea;
+  background-color: #ffffff;
+  padding: 0.5em 1em;
+  border-color: #6749ea
+}
+#singn-btn:hover{
+  background-color: #6749ea;
+  color: white;
+  cursor: pointer;
+}
+#sub-btn{
+border-radius: 5px;
+border-color: #f49f31;
+color: #eee5e0;
+background-image: linear-gradient(#f9c432, #f49f31);
+padding: 1% 4%;
+}
+#sub-btn:hover {
+  border-radius: 5px;
+  border-color: #f49f31; 
+  color: #eee5e0;
+  background: #f38e31;
+  padding: 1% 4%;
+  cursor: pointer;
+
+}
+#twitter-btn{
+border-radius: 20em ;
+border-color:#37a1f3;
+background-color: white;
+padding: 1em 1.2em;
+color: #37a1f3;
+
+}
+#twitter-btn:hover {
+  border-radius: 20em ;
+  background-color:#37a1f3;
+  color: white;
+  cursor: pointer;
+ }
